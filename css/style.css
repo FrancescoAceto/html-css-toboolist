@@ -1,0 +1,157 @@
+* {
+    margin: auto;
+    padding: auto;
+
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f8f9 ;
+}
+
+
+#banner {
+    background-color: white;
+
+    height: 110px;
+    padding-bottom: 20px;
+}
+
+#logo {
+    height: 80px;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#titolo {
+    display: inline-block;
+    font-size: 60px;
+}
+
+#back-small {
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    height: 60px;
+    width: 50%;
+}
+
+#bottone{
+    background-color: #47adf1;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+    height: 30px;
+}
+
+#searchbar{
+    border-style: none;
+    border-radius: 2px;
+    height: 30px;
+    width: 85px;
+}
+
+#back-big{
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    margin-top: 2px;
+    padding-left: 50px;
+    padding-top: 20px;
+    height: 700px;
+    width: 50%; 
+}
+
+#back-big div{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+#spunta{
+    border: solid 1px green;
+    border-radius: 10px;
+    color: green;
+    padding: 1px;
+    margin-right: 10px;
+}
+
+#pulsantino{
+    background-color: #47adf1;
+    border-style: none;
+    border-radius: 12px;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    padding: 7px;
+    margin-left: 5px;
+}
+
+#spazio{
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+#pulsantino2{
+    background-color: #803ab9;
+    border-style: none;
+    border-radius: 12px;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    padding: 7px;
+    margin-left: 5px; 
+}
+
+#cross{
+    border: solid 1px rgb(128, 0, 0);
+    border-radius: 10px;
+    color: rgb(128, 0, 0);
+    padding: 1px;
+    margin-right: 10px;
+}
+
+#pulsantino3{
+    background-color: #26a77c;
+    border-style: none;
+    border-radius: 12px;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    padding: 7px;
+    margin-left: 5px;
+}
+
+#pulsantino4{
+    background-color: #ff9100;
+    border-style: none;
+    border-radius: 12px;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    padding: 7px;
+    margin-left: 5px;
+}
+
+#pulsantino5{
+    background-color: #ce668e;
+    border-style: none;
+    border-radius: 12px;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    padding: 7px;
+    margin-left: 5px;
+}
+
+#pulsantino6{
+    background-color: #91b945;
+    border-style: none;
+    border-radius: 12px;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    padding: 7px;
+    margin-left: 5px;
+}
